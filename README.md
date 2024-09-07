@@ -3,14 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm Umesh Sahu</h1>
 <h3 align="center">Learner | Developer | Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/umeshs25/umeshs25/blob/main/Coding%20Animated.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshs25&label=Profile%20views&color=0e75b6&style=flat" alt="umeshs25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshs25" alt="umeshs25" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/umeshs25" target="blank"><img src="https://img.shields.io/twitter/follow/umeshs25?logo=twitter&style=for-the-badge" alt="umeshs25" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/umeshs25/umeshs25/blob/main/Coding%20Animated.gif?raw=true">
 - 🔭 I’m currently working on [BlockChain Technology](https://github.com/umeshs25/BlockChain_Diamante)
 
 - 🌱 I’m currently learning **BlockChain, Web3, Figma**
