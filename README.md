@@ -10,6 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/umeshs25" target="blank"><img src="https://img.shields.io/twitter/follow/umeshs25?logo=twitter&style=for-the-badge" alt="umeshs25" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/umeshs25/umeshs25/blob/main/Coding%20Animated.gif?raw=true">
+
 - 🔭 I’m currently working on [BlockChain Technology](https://github.com/umeshs25/BlockChain_Diamante)
 
 - 🌱 I’m currently learning **BlockChain, Web3, Figma**
