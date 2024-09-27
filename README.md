@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@umeshs25](https://medium.com/@umeshs25)
 
-- 💬 Ask me about **MERN Stack, ReactJS, HTML, CSS, Python**
+- 💬 Ask me about **MERN Stack, ReactJS, HTML, CSS, Python**   
 
 - 📫 How to reach me **umeshsahu2001@gmail.com**
 
